@@ -12,6 +12,7 @@ public class HelloWorldActivity extends AppCompatActivity {
         setContentView(R.layout.hello_world_layout);
         //test git
         //test git2
+        //一二三
       //  Log.d("HelloWorldActivity","onCreate execute");
         Log.d("data","onCreate execute");
 
